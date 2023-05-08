@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.container {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.heading {
+  color: #f0bb03;
+  font-size: 35px;
+}
+.paragraph {
+  color: white;
+}
+* {
+  font-family: 'Bree Serif';
+}
